@@ -1,0 +1,55 @@
+/* *{
+    width: 100%;
+} */
+header{
+    margin-bottom: 60px;
+}
+.header-div{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(244, 207, 213);
+}
+.header-btn{
+    width: 90px;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: rgb(249, 156, 171);
+    color: rgb(129, 16, 235);
+    border: 0;
+    font-weight: 600;
+}
+.header-pic{
+    width: 200px;
+    
+    
+}
+/* section2 featured-flower-------------- */
+
+.featured-flower-description{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+.featured-flower-description > h2{
+    margin-bottom: 0;
+}
+.three-img{
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+}
+
+.three-img-pink{
+    width: 200px;
+}
+
+/* secton 2 hot deal---------------- */
+
+.hot-deal{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 100px;
+}
+
