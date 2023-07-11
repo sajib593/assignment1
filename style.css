@@ -132,11 +132,12 @@ input{
 .bonus-div{
     display: flex;
     justify-content: space-around;
+    align-items: center;
     background-color: rgb(244, 207, 213);
     padding-top: 100px;
 }
 .bonus-pic{
-    height: 300px;
+    height: 400px;
     margin-right: 20px;
 }
 
