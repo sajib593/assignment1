@@ -60,12 +60,17 @@ header{
 
 /* ----------------instagram-section--------- */
 
-
+.featured-flower-description{
+    text-align: center;
+}
 .four-flower{
     display: flex;
+    justify-content: center;
+    gap: 20px;
+    align-items: center;
     
 }
-.four-flower > img[
-    width: 100px
-]
+.four-flower-pic{
+    width: 200px;
+}
 
