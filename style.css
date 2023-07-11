@@ -46,10 +46,26 @@ header{
 
 /* secton 2 hot deal---------------- */
 
+.hot-deal-section{
+    background-color: bisque;
+    margin-bottom: 100px;
+}
+
 .hot-deal{
     display: flex;
     justify-content: space-evenly;
     align-items: center;
     margin-top: 100px;
 }
+
+/* ----------------instagram-section--------- */
+
+
+.four-flower{
+    display: flex;
+    
+}
+.four-flower > img[
+    width: 100px
+]
 
