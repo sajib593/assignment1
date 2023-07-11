@@ -74,3 +74,31 @@ header{
     width: 200px;
 }
 
+
+/* input section--------------- */
+.input-section{
+    margin-top: 100px;
+}
+.latest-deal{
+    background-image: url('./Flower Asset/Rectangle 9.png');
+    background-position: center;
+    background-size: 300px 100px;
+    background-repeat: no-repeat;
+    background-size: auto 300px;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 100px;
+    justify-content: center;
+    align-items: center;
+}
+.latest-deal > h6{
+    margin-top: 0;
+}
+
+input{
+    width: 380px;
+    height: 30px;
+}
+
+
