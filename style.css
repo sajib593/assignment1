@@ -1,6 +1,12 @@
 /* *{
     width: 100%;
 } */
+h1{
+    font-family: 'Open Sans', sans-serif;
+}
+h2{
+    font-family: 'Open Sans', sans-serif;
+}
 header{
     margin-bottom: 60px;
 }
@@ -14,7 +20,7 @@ header{
     width: 90px;
     padding: 10px;
     border-radius: 5px;
-    background-color: rgb(249, 156, 171);
+    background-color: #44f8ad;
     color: rgb(129, 16, 235);
     border: 0;
     font-weight: 600;
@@ -131,10 +137,14 @@ input{
 
 .bonus-div{
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
+    gap: 130px;
     align-items: center;
-    background-color: rgb(244, 207, 213);
-    padding-top: 100px;
+    background-color: azure;
+    padding: 50px;
+}
+.heart{
+    width: 200px;
 }
 .bonus-pic{
     height: 400px;
@@ -152,7 +162,7 @@ footer{
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding: 50px;
+    padding: 80px;
     
 }
 .footer-end > h5{
